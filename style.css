@@ -1,0 +1,32 @@
+div{
+    display: flex;
+    background-color: rgb(110, 110, 240);
+    justify-content: end;
+}
+body{
+    color: white;
+}
+h1{
+    font-weight: 100;
+    font-size: 145%;
+    display:flex;
+    color:white;
+    align-items: center;
+    margin: 0px 0px 0px 30px;
+}
+ul{
+    display:flex;
+    list-style: none;
+    align-items: center;
+}
+a{
+    color:white;
+    text-decoration: none;
+    margin: 0px 0px 0px 70px;
+}
+img{
+    display:flex;
+    max-width: 8%;
+    height: auto;
+    margin: 10px 0px 10px 0px;
+}
